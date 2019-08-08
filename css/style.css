@@ -38,7 +38,7 @@ li {
 
 .coman {
     /*        padding-top: 80px;*/
-    width: 90%;
+    width: 80%;
     padding: 50px 40px;
     margin: auto;
     overflow: auto;
@@ -377,11 +377,11 @@ overflow: auto;
 }
 
 .divm {
-    padding-left: 10px;
-    padding-bottom: 40px;
+/*    padding-left: 10px;*/
+/*    padding-bottom: 40px;*/
     width: 33.33%;
     float: left;
-    /*    padding: 15px;*/
+        padding: 15px;
     text-align: left;
     /*    background-color: firebrick;*/
 }
@@ -617,6 +617,7 @@ overflow: auto;
     text-decoration: none;
     color: white;
     padding: 17px;
+    display: inline-block;
 
     background-color: #26bbff;
 
@@ -635,6 +636,7 @@ overflow: auto;
     text-decoration: none;
     color: white;
     padding: 17px;
+    display: inline-block;
 
     font-family: 'Montserrat', sans-serif;
     line-height: 1.7em;
